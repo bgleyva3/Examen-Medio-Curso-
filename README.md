@@ -1,6 +1,6 @@
 # Examen-Medio-Curso-
 
-Actividad de algoritmo genético del examen de medio curso.
+Actividad de algoritmo genético y arbol binario del examen de medio curso.
 
 Brandon Leyva Gastélum 1582672
 
